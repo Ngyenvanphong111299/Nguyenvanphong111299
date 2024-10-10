@@ -24,7 +24,7 @@ In addition to my technical skills, I take pride in mentoring developers, foster
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 .NET**
-- 🌱 I'm currently learning: **📚HOW TO BECOME A SENIOR SOFTWARE ENGINNER**
+- 🌱 I'm currently learning: **📚HOW TO BECOME A SENNIOR SOFTWARE ENGINNER**
 - 💬 Ask me about: **💡 C#, .NET**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 - 📂 Portfolio: **<a href="https://www.linkedin.com/in/phong-nguyen-06990b27a/" target="_blank">https://www.linkedin.com/in/phong-nguyen-06990b27a/</a>**
