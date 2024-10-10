@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/phong-nguyen-06990b27a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/phong-nguyen-06990b27a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">I am a dedicated .NET Software Engineer with over 3 years of experience in developing high-performance web and application solutions. My expertise includes C#, JavaScript, Dart, and TypeScript, with a strong focus on .NET Framework/Core, RESTful APIs, Entity/Identity Framework, Angular, and Flutter. I have extensive experience working with SQL Server, MySQL, MariaDB, MongoDB, Redis, and ElasticSearch, and proficiency in cloud platforms like Azure and AWS, as well as Docker for containerization.
 
